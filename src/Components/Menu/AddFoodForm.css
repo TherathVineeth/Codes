@@ -1,0 +1,45 @@
+/* AddFoodForm.css */
+.add-food-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('https://domf5oio6qrcr.cloudfront.net/medialibrary/6451/7e8635fd-bb43-48e8-a9c0-b7a9d0ae5571.jpg');
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .add-food-form {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .add-food-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .add-food-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-food-form button {
+    background-color: #f57c00;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .add-food-form button:hover {
+    background-color: #d45a00;
+  }
+  

@@ -1,0 +1,67 @@
+.container {
+  /* Remove or adjust the max-width and margin properties */
+  width: 100%;
+  height: 100vh; /* Set the height to cover the full viewport */
+  padding: 20px;
+  background-color: #f8f8f8;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-image: url(food.jpg);
+  background-size: cover; /* Make the background image cover the container */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  border:1px solid #ccc;
+  backdrop-filter: blur(5px);
+}
+
+  
+  .form-label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+  .is-invalid {
+    border-color: #dc3545;
+  }
+  
+  .invalid-feedback {
+    color: #dc3545;
+    font-size: 12px;
+    margin-top: 2px;
+  }
+  
+  .btn-primary {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+  .row{
+    max-width: 100%;
+    padding: 50px;
+    border: 1px solid ;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+  }
