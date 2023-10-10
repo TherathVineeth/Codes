@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProjectMVC\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj": {}
+    "C:\\Git_update\\Codes\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj": {}
   },
   "projects": {
-    "E:\\ProjectMVC\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj": {
+    "C:\\Git_update\\Codes\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProjectMVC\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj",
+        "projectUniqueName": "C:\\Git_update\\Codes\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj",
         "projectName": "Moble_List_Application",
-        "projectPath": "E:\\ProjectMVC\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj",
-        "packagesPath": "C:\\Users\\91809\\.nuget\\packages\\",
-        "outputPath": "E:\\ProjectMVC\\Moble_List_Application\\Moble_List_Application\\obj\\",
+        "projectPath": "C:\\Git_update\\Codes\\Moble_List_Application\\Moble_List_Application\\Moble_List_Application.csproj",
+        "packagesPath": "C:\\Users\\248732\\.nuget\\packages\\",
+        "outputPath": "C:\\Git_update\\Codes\\Moble_List_Application\\Moble_List_Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\91809\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\248732\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -80,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
